@@ -22,8 +22,8 @@ namespace Project.NET.ChartSenderService
         public string apiKey = "PC55IMQVIAWCD1X9";
         private string url;
         private string chartPath = @"C:\ChartSender\chart.png";
-        private string myEmail = "mySecretEmail";
-        private string myPassword = "mySecretPassword";
+        private string myEmail = "mail";
+        private string myPassword = "pass";
 
         private string fromSymbol = "gbp";
         private string toSymbol = "usd";
